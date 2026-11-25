@@ -1,0 +1,8 @@
+{
+  "name": "MoodLog - 나만의 감성 일기장",
+  "description": "차분하게 채워가는 나만의 감성 일기장 웹 애플리케이션",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
